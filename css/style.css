@@ -64,7 +64,7 @@ body {
     .backButton {
         position: fixed;
         width: 4vh;
-        top: 93vh;
+        top: 93%;
         left: 1vh;
     }
   }
