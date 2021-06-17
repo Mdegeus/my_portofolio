@@ -64,8 +64,8 @@ body {
     .backButton {
         position: fixed;
         width: 4vh;
-        margin-top: 93vh;
-        margin-left: 1vh;
+        top: 93vh;
+        left: 1vh;
     }
   }
 
