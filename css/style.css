@@ -49,3 +49,14 @@ body {
     padding: .5em 2em;
 }
 
+.mainGrid {
+    display: grid;
+}
+
+.backButton {
+    position: fixed;
+    width: 3vw;
+    margin-top: 93vh;
+    margin-left: 1vh;
+}
+
