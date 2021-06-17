@@ -60,3 +60,12 @@ body {
     margin-left: 1vh;
 }
 
+@media only screen and (max-width: 600px) {
+    .backButton {
+        position: fixed;
+        width: 4vh;
+        margin-top: 93vh;
+        margin-left: 1vh;
+    }
+  }
+
